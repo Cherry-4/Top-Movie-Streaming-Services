@@ -6,7 +6,7 @@ Using Python Modules ,Libraries and by analyzing the data provided,we can know t
 
 ## Installation
 
-To Install teh Libraries used in this project.Follow the steps Mentioned below:
+To Install the Libraries used in this project.Follow the steps Mentioned below:
 
 ```bash
   import pandas as pd
